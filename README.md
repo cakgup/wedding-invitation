@@ -21,7 +21,7 @@
     ```
 
 2. **Catatan**: Anda memiliki dua pilihan untuk menggunakan kode sumber ini:
-    - **Tanpa Modifikasi**: Buka file [data.js](https://github.com/SandiPerdiansah/wedding-invitation/blob/main/src/assets/data/data.js) untuk langsung menggunakannya.
+    - **Tanpa Modifikasi**: Buka file [data.js](https://github.com/cakgup/wedding-invitation/blob/main/src/assets/data/data.js) untuk langsung menggunakannya.
     - **Dengan Kustomisasi**: Sesuaikan tampilan dan kontennya sesuai kebutuhan Anda.
 
 ### Cara Mengedit `data.js` ✏️
@@ -120,7 +120,7 @@ Salin URL yang diberikan. Jika terjadi kesalahan, coba deploy ulang karena terka
 
 ## Penghargaan Desain 🎨
 
-Proyek ini merupakan redesain dari undangan pernikahan milik [Dewanakl](https://github.com/dewanakl). Tata letak dan desain telah disesuaikan untuk meningkatkan fungsi dan estetika.
+Repo ini merupakan salinan dari undangan pernikahan milik [Dewanakl](https://github.com/SandiPerdiansah).
 
 ---
 
