@@ -120,7 +120,7 @@ Salin URL yang diberikan. Jika terjadi kesalahan, coba deploy ulang karena terka
 
 ## Penghargaan Desain 🎨
 
-Repo ini merupakan salinan dari undangan pernikahan milik [Dewanakl](https://github.com/SandiPerdiansah).
+Repo ini merupakan salinan dari undangan pernikahan milik [SandiPerdiansah](https://github.com/SandiPerdiansah).
 
 ---
 
